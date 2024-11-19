@@ -57,7 +57,7 @@ fn variable_compound() {
     println!("tuple first parameter value {}", first_tuple_parameter);
     println!("tuple second {second} and third {third}");
 
-	let array = [1,2,3,4,5];
+    let array = [1, 2, 3, 4, 5];
 
-	println!("array value {}",array[0]);
+    println!("array value {}", array[0]);
 }
